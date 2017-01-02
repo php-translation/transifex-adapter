@@ -1,6 +1,9 @@
 # Adapter for Transifex
 
 [![Latest Version](https://img.shields.io/github/release/php-translation/transifex-adapter.svg?style=flat-square)](https://github.com/php-translation/transifex-adapter/releases)
+[![Build Status](https://img.shields.io/travis/php-translation/transifex-adapter.svg?style=flat-square)](https://travis-ci.org/php-translation/transifex-adapter)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/php-translation/transifex-adapter.svg?style=flat-square)](https://scrutinizer-ci.com/g/php-translation/transifex-adapter)
+[![Quality Score](https://img.shields.io/scrutinizer/g/php-translation/transifex-adapter.svg?style=flat-square)](https://scrutinizer-ci.com/g/php-translation/transifex-adapter)
 [![Total Downloads](https://img.shields.io/packagist/dt/php-translation/transifex-adapter.svg?style=flat-square)](https://packagist.org/packages/php-translation/transifex-adapter)
 
 This is an PHP-translation adapter for [Transifex](https://www.transifex.com/). 
